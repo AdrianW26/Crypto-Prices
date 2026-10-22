@@ -19,13 +19,14 @@ Fetches the current prices of Bitcoin, Ethereum and Solana in GBP, USD and EUR f
 
 2. Install the required packages:
 
-   ```bash  pip install requests pandas
+   ```bash  
+   pip install requests pandas
    ```
 
 ## Running
 
 ```bash
-python3 crypto_prices.py
+python3 Crypto\ Prices.py
 ```
 
 On Windows, use `python` instead of `python3`.
